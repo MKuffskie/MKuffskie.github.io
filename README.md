@@ -1,2 +1,2 @@
-# MKuffskie.github.io
-Website hos for CMS Capstone project
+# Introduction and Purpose
+This repo will hopefully make it possible to host a website
